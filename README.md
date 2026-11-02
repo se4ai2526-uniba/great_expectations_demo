@@ -23,4 +23,4 @@ Use either:
 - **JupyterLab**: `uv run jupyter lab`, then open `great_expectations_demo.ipynb`.
 - **VS Code**: open the folder, open the notebook, and choose the `.venv` interpreter as the kernel (*Select Kernel → Python Environments → .venv*).
 
-The notebook creates a `gx/` folder (ignored by git) that holds the GX project. The **Data Docs** generated during the lab are in `gx/uncommitted/data_docs/lab_site/index.html`; open that file in a browser. To start from scratch, delete `gx/`.
+The notebook creates a `gx/` folder (ignored by git) that holds the GX project. The **Data Docs** generated during the lab are in `gx/uncommitted/data_docs/local_site/index.html`; open that file in a browser. To start from scratch, delete `gx/`.
