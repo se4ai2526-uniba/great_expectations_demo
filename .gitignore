@@ -237,3 +237,6 @@ pyrightconfig.json
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,visualstudiocode,python,jupyternotebooks
+
+# Great Expectations (in case a file-backed Data Context gets created)
+gx/
