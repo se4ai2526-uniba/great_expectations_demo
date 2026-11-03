@@ -240,3 +240,6 @@ pyrightconfig.json
 
 # Great Expectations (in case a file-backed Data Context gets created)
 gx/
+
+# Images downloaded by gx_unstructured_data.ipynb
+data/
